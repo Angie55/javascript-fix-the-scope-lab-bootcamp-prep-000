@@ -11,7 +11,7 @@ function yourAnimal() {
 }
 
 
-const two = 2
+
 
   return n + two
 
